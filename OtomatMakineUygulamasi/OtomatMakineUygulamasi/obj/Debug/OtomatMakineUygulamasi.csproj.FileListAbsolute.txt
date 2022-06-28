@@ -1,0 +1,8 @@
+C:\Users\Onur AYDIN\source\repos\OtomatMakineUygulamasi\OtomatMakineUygulamasi\bin\Debug\OtomatMakineUygulamasi.exe.config
+C:\Users\Onur AYDIN\source\repos\OtomatMakineUygulamasi\OtomatMakineUygulamasi\bin\Debug\OtomatMakineUygulamasi.exe
+C:\Users\Onur AYDIN\source\repos\OtomatMakineUygulamasi\OtomatMakineUygulamasi\bin\Debug\OtomatMakineUygulamasi.pdb
+C:\Users\Onur AYDIN\source\repos\OtomatMakineUygulamasi\OtomatMakineUygulamasi\obj\Debug\OtomatMakineUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Onur AYDIN\source\repos\OtomatMakineUygulamasi\OtomatMakineUygulamasi\obj\Debug\OtomatMakineUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onur AYDIN\source\repos\OtomatMakineUygulamasi\OtomatMakineUygulamasi\obj\Debug\OtomatMakineUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Onur AYDIN\source\repos\OtomatMakineUygulamasi\OtomatMakineUygulamasi\obj\Debug\OtomatMakineUygulamasi.exe
+C:\Users\Onur AYDIN\source\repos\OtomatMakineUygulamasi\OtomatMakineUygulamasi\obj\Debug\OtomatMakineUygulamasi.pdb
